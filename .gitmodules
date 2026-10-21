@@ -1,0 +1,9 @@
+[submodule "NoKeyCloud-Frontend"]
+	path = NoKeyCloud-Frontend
+	url = https://github.com/nokeycloud/NoKeyCloud-Frontend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nokeycloud/NoKeyCloud-Frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/nokeycloud/NoKeyCloud-Backend.git
